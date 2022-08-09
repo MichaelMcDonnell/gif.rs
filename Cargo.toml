@@ -1,8 +1,8 @@
 [package]
-name    = "gif"
+name = "gif"
 version = "0.0.1"
 authors = ["Geoffroy Couprie <contact@geoffroycouprie.com>"]
 
 [dependencies]
-nom     = { git = "https://github.com/Geal/nom" }
+nom = "4.2.3"
 byteorder = "0.3.5"
